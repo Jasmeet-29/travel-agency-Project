@@ -5,7 +5,7 @@
   "scripts": {
     "build": "tsc",
     "start": "node dist/travel-agency.js",
-    "test": "npx jest"
+    "test": "jest"
   },
   "keywords": [],
   "author": "",
